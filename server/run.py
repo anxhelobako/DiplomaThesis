@@ -3,6 +3,7 @@ from app.extensions import db
 from flask_migrate import Migrate
 from flask_caching import Cache
 import feedparser
+from server import create_app
 
 app = create_app()
 migrate = Migrate(app, db)
