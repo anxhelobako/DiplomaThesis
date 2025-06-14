@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DiplomaThesis/static/css/main.ec28236d.css",
+    "main.js": "/DiplomaThesis/static/js/main.5aeb32f2.js",
+    "static/js/453.258b012d.chunk.js": "/DiplomaThesis/static/js/453.258b012d.chunk.js",
+    "index.html": "/DiplomaThesis/index.html",
+    "main.ec28236d.css.map": "/DiplomaThesis/static/css/main.ec28236d.css.map",
+    "main.5aeb32f2.js.map": "/DiplomaThesis/static/js/main.5aeb32f2.js.map",
+    "453.258b012d.chunk.js.map": "/DiplomaThesis/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec28236d.css",
+    "static/js/main.5aeb32f2.js"
+  ]
+}
